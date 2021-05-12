@@ -15,18 +15,15 @@ namespace ConvertNumberToCorrespondingMonthName
             }
 
             private static void ConvertNumberToMonth(int monthNumber)
-            {
-                //check if number is less than 1 or greater than 12
-                //if yes, prit a msg that the operation can't continue
-                //else, print the corresponding month
-
+            {                
                 if (monthNumber < 1 || monthNumber > 12)
                 {
                     Console.WriteLine($"{monthNumber} doesn't correspond to a month");
                 }
                 else
                 {
-                    string[] monthNames = DateTimeFormatInfo.CurrentInfo.MonthNames;
+                    string[] monthNames = DateTimeFormatInfo.CurrentInfo.MonthNames; // getting the list of month names
+
                     switch (monthNumber)
                     {
                         case 1:
