@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{588CAF24-3E12-4F8A-B44B-E902B83D72AB}|Default">
+﻿<Properties StartupConfiguration="{1938E07E-A7EC-4395-883C-C8695829B888}|Default">
   <MonoDevelop.Ide.ItemProperties.ConvertNumberToCorrespondingMonthName PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertNumberToCorrespondingMonthName/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FridayThirteenth/Program.cs">
     <Files>
-      <File FileName="ConvertNumberToCorrespondingMonthName/Program.cs" Line="1" Column="1" />
+      <File FileName="ConvertNumberToCorrespondingMonthName/Program.cs" Line="15" Column="14" />
+      <File FileName="FridayThirteenth/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodePracticeProjects" expanded="True">
-            <Node name="ConvertNumberToCorrespondingMonthName" expanded="True">
+            <Node name="FridayThirteenth" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +18,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FridayThirteenth FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

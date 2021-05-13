@@ -1,0 +1,12 @@
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/bin/Debug/netcoreapp3.1/FridayThirteenth.deps.json
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/bin/Debug/netcoreapp3.1/FridayThirteenth.runtimeconfig.json
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/bin/Debug/netcoreapp3.1/FridayThirteenth.runtimeconfig.dev.json
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/bin/Debug/netcoreapp3.1/FridayThirteenth.dll
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/bin/Debug/netcoreapp3.1/FridayThirteenth.pdb
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.csprojAssemblyReference.cache
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.AssemblyInfoInputs.cache
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.AssemblyInfo.cs
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.csproj.CoreCompileInputs.cache
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.dll
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.pdb
+/Users/williamnsambu/Documents/Devs/CodeChallenges/code-challenges/CodePracticeProjects/FridayThirteenth/obj/Debug/netcoreapp3.1/FridayThirteenth.genruntimeconfig.cache
