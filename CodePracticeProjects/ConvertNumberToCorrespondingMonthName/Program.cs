@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+* OBJECTIVE: Create a function that takes a number (from 1 to 12) and returns its corresponding month name as a string. 
+* For example, if you're given 3 as input, your function should return "March", because March is the 3rd month.
+*/
+using System;
 using System.Globalization;
 
 namespace ConvertNumberToCorrespondingMonthName
@@ -9,24 +13,23 @@ namespace ConvertNumberToCorrespondingMonthName
             {
                 Console.WriteLine("Convert Number to Corresponding Month Name");
 
+                //Reading the user input
                 int input = int.Parse(Console.ReadLine());
-                ConvertNumberToMonth(input);
+                ConvertNumberToMonth(input); //method that does the conversion
                 Console.ReadKey();
             }
 
             private static void ConvertNumberToMonth(int monthNumber)
             {
-                //check if number is less than 1 or greater than 12
-                //if yes, prit a msg that the operation can't continue
-                //else, print the corresponding month
-
+                //Cheching if the month number entered is correct
                 if (monthNumber < 1 || monthNumber > 12)
                 {
                     Console.WriteLine($"{monthNumber} doesn't correspond to a month");
                 }
                 else
                 {
-                    string[] monthNames = DateTimeFormatInfo.CurrentInfo.MonthNames;
+                    string[] monthNames = DateTimeFormatInfo.CurrentInfo.MonthNames; // getting the list of month names
+
                     switch (monthNumber)
                     {
                         case 1:
