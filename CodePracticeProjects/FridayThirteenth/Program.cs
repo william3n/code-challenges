@@ -19,11 +19,11 @@ namespace FridayThirteenth
             int year = int.Parse(Console.ReadLine());
 
             // calling the method that checks whether a month from a year has a Friday 13th
-            ContainsFridayThirtheeth(month, year); 
+            ContainsFridayThirteenth(month, year); 
             Console.ReadKey();
         }
 
-        private static void ContainsFridayThirtheeth(int month, int year)
+        private static void ContainsFridayThirteenth(int month, int year)
         {
             if (month > 0 || month < 31)//Checking if the month entered is correct
             {
